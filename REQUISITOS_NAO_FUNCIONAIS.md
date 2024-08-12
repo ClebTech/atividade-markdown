@@ -13,5 +13,5 @@ Os requisitos não funcionais descrevem as qualidades e restrições do sistema,
 
 **Descrição:** O sistema deve ser intuitivo e fácil de usar.
 
-- **Métrica:** Usuários devem ser capazes de completar tarefas básicas sem treinamento adicional.
-- **Critério de Aceitação:** Avaliações de usabilidade devem mostrar uma taxa de sucesso de 90% nas tarefas testadas.
+- **Métrica:** Usuários devem ser capazes de completar tarefas básicas sem maiores dificuldades.
+- **Critério de Aceitação:** Avaliações de usabilidade devem mostrar uma taxa de sucesso superior a 90% nas tarefas testadas.
